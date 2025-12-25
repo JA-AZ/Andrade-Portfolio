@@ -26,14 +26,14 @@ const Contact: React.FC = () => {
                 <div className="p-4 bg-teal-500 rounded-full mb-3">
                   <Mail className="w-6 h-6 text-white" />
                 </div>
-                <span className="text-teal-50 font-medium">jairus.andrade@example.com</span>
+                <span className="text-teal-50 font-medium">jairusandrade05@gmail.com</span>
               </div>
               
               <div className="flex flex-col items-center">
                 <div className="p-4 bg-teal-500 rounded-full mb-3">
                   <Phone className="w-6 h-6 text-white" />
                 </div>
-                <span className="text-teal-50 font-medium">+63 (912) 345-6789</span>
+                <span className="text-teal-50 font-medium">+63 (945) 239 4216</span>
               </div>
               
               <div className="flex flex-col items-center">
